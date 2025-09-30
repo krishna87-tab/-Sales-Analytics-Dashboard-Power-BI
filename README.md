@@ -1,5 +1,8 @@
 # -Sales-Analytics-Dashboard-Power-BI
 An interactive dashboard built in Power BI to analyze sales performance across time, geography, and product segments. Designed for executive decision-making with clean visuals and dynamic filtering.
+
+![image alt](https://github.com/krishna87-tab/-Sales-Analytics-Dashboard-Power-BI/blob/dff0c1563506697de9a7913fff93fb9ea63df720/Screenshot_1.png)
+
 🔍 Key Features
 Multi-layered Metrics: Tracks core KPIs including Total Sales, Profit, Quantity, Discounts, Returns, and Customer Count.
 
