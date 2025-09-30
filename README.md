@@ -3,6 +3,10 @@ An interactive dashboard built in Power BI to analyze sales performance across t
 
 ![image alt](https://github.com/krishna87-tab/-Sales-Analytics-Dashboard-Power-BI/blob/dff0c1563506697de9a7913fff93fb9ea63df720/Screenshot_1.png)
 
+![image alt](https://github.com/krishna87-tab/-Sales-Analytics-Dashboard-Power-BI/blob/61c9ae15a4026e7d16680a7c25645c7b789bcff1/Screentshot_2.png)
+
+
+
 🔍 Key Features
 Multi-layered Metrics: Tracks core KPIs including Total Sales, Profit, Quantity, Discounts, Returns, and Customer Count.
 
