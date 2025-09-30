@@ -5,6 +5,8 @@ An interactive dashboard built in Power BI to analyze sales performance across t
 
 ![image alt](https://github.com/krishna87-tab/-Sales-Analytics-Dashboard-Power-BI/blob/61c9ae15a4026e7d16680a7c25645c7b789bcff1/Screentshot_2.png)
 
+![image alt](https://github.com/krishna87-tab/-Sales-Analytics-Dashboard-Power-BI/blob/5e6126d10e6e9b0b66b56f24320dba760ee030e5/Screentshot_3.png)
+
 
 
 🔍 Key Features
