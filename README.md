@@ -7,7 +7,7 @@ An interactive dashboard built in Power BI to analyze sales performance across t
 
 ![image alt](https://github.com/krishna87-tab/-Sales-Analytics-Dashboard-Power-BI/blob/5e6126d10e6e9b0b66b56f24320dba760ee030e5/Screentshot_3.png)
 
-
+![image alt](https://github.com/krishna87-tab/-Sales-Analytics-Dashboard-Power-BI/blob/980a9a4d591aa98a2d8556f07841cc0352c1b104/Screenshot_4.png)
 
 🔍 Key Features
 Multi-layered Metrics: Tracks core KPIs including Total Sales, Profit, Quantity, Discounts, Returns, and Customer Count.
@@ -28,9 +28,6 @@ Profit Optimization: Includes “Profit vs New Profit” comparisons to simulate
 
 🧠 Technical Highlights
 Advanced DAX:
-
-Dynamic RLS (Row-Level Security) for secure stakeholder views.
-
 Slicer-sensitive measures for adaptive filtering.
 
 Scenario modeling using calculated columns and measures.
